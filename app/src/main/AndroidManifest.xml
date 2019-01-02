@@ -20,7 +20,7 @@
         <activity android:name=".sub_cat_teaspacial" />
         <activity android:name=".sub_cat_diamond" />
         <activity android:name=".sub_cat_moti" />
-        <activity android:name=".sub_cat_slim_trim"></activity>
+        <activity android:name=".sub_cat_slim_trim" />
         <activity android:name=".sub_cat_chaimaza" />
         <activity android:name=".sub_cat_deshi" />
         <activity android:name=".sub_cat_cow_milk" />
@@ -32,7 +32,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".cartdesign"></activity>
+        <activity android:name=".cartdesign" />
+        <activity android:name=".abc"></activity>
     </application>
 
 </manifest>
