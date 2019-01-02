@@ -1,0 +1,54 @@
+<resources>
+    <array name="countery">
+        <item name="india">india</item>
+        <item name="Us">Us</item>
+    </array>
+    <array name="state">
+        <item name="gujarat">Gujarat</item>
+        <item name="maharastra">Maharastra</item>
+        <item name="rajesthan">Rajesthan</item>
+        <item name="mp">Madhya Pradesh</item>
+    </array>
+    <array name="City">
+        <item name="ahmedabad">Ahmedabad</item>
+        <item name="gandhinagar">Gandhinagar</item>
+        <item name="Mhaesana">Mahesana</item>
+        <item name="Anand">Anand</item>
+        <item name="vadodara">Vadodara</item>
+        <item name="vadodara">Patan</item>
+        <item name="vadodara">Palanpur</item>
+        <item name="vadodara">Deesa</item>
+        <item name="vadodara">Rapar</item>
+    </array>
+    <string name="app_name">frame layout</string>
+    <string name="ap">Log in</string>
+    <string name="ab">username</string>
+    <string name="a1">username here</string>
+    <string name="a2">password</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="forgot_password">forgot password?</string>
+
+
+    <string name="sign_in">sign in</string>
+    <string name="sign_up">sign up</string>
+    <string name="registration">Registration</string>
+    <string name="first_name">first name</string>
+    <string name="last_name">Last Name</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="re_enter_password">Re Enter Password</string>
+    <string name="address">Address</string>
+    <string name="select_countery">Select Countery</string>
+    <string name="select_state">Select state</string>
+    <string name="select_city">Select City</string>
+    <string name="title_activity_nav_drawer">navDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="mobile">mobile number</string>
+</resources>
